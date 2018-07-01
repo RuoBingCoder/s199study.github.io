@@ -30,11 +30,11 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[高清壁纸]]></title>
-    <url>%2F2018%2F05%2F11%2F%E5%A3%81%E7%BA%B8%2F</url>
-    <content type="text"><![CDATA[]]></content>
+    <title><![CDATA[java简单的两种排序算法]]></title>
+    <url>%2F2018%2F05%2F11%2Fsort%2F</url>
+    <content type="text"><![CDATA[1.冒泡法具体代码和运行结果如下： 冒泡排序是一种典型的排序算法至今仍也被广泛应用.实现思路是这样的： 1.认为第一个元素是排好序的，从第二个开始遍历。2.拿出当前元素的值，从排好序的序列中从后往前找。3.如果序列中的元素比当前元素大，就把它后移。直到找到一个小的。4.把当前元素放在这个小的后面（后面的比当前大，它已经被后移了）插入排序和冒泡排序在平均和最坏情况下的时间复杂度都是 O(n^2)，最好情况下都是 O(n)，空间复杂度是 O(1)。 2.快速排序法具体代码和运行结果如下： 对于快速排序我下面给贴图解释: 两个集合再次重复上一次的操作！]]></content>
       <categories>
-        <category>简约壁纸</category>
+        <category>冒泡和快速排序</category>
       </categories>
   </entry>
   <entry>
@@ -43,11 +43,11 @@
     <content type="text"><![CDATA[bizhi]]></content>
   </entry>
   <entry>
-    <title><![CDATA[java简单的两种排序算法]]></title>
-    <url>%2F2018%2F05%2F11%2Fsort%2F</url>
-    <content type="text"><![CDATA[1.冒泡法具体代码和运行结果如下： 冒泡排序是一种典型的排序算法至今仍也被广泛应用.实现思路是这样的： 1.认为第一个元素是排好序的，从第二个开始遍历。2.拿出当前元素的值，从排好序的序列中从后往前找。3.如果序列中的元素比当前元素大，就把它后移。直到找到一个小的。4.把当前元素放在这个小的后面（后面的比当前大，它已经被后移了）插入排序和冒泡排序在平均和最坏情况下的时间复杂度都是 O(n^2)，最好情况下都是 O(n)，空间复杂度是 O(1)。 2.快速排序法具体代码和运行结果如下： 对于快速排序我下面给贴图解释: 两个集合再次重复上一次的操作！]]></content>
+    <title><![CDATA[高清壁纸]]></title>
+    <url>%2F2018%2F05%2F11%2F%E5%A3%81%E7%BA%B8%2F</url>
+    <content type="text"><![CDATA[]]></content>
       <categories>
-        <category>冒泡和快速排序</category>
+        <category>简约壁纸</category>
       </categories>
   </entry>
   <entry>
