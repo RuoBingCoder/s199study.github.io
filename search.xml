@@ -22,6 +22,14 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[百度云下载]]></title>
+    <url>%2F2018%2F05%2F11%2Fbaiduyun%2F</url>
+    <content type="text"><![CDATA[百度云盘下载工具 相信大家可能在启用百度云下载东西的时候可能被百度的速度所折磨，速度超慢，但是上有政策，下有对策。所以还是要感谢开源，这个软件是GitHub的开源软件，不需要登录，不用担心被百度封号的风险。之前的pandownload,由于不法商家的售卖，导致现在不能使用。也是很心寒，很好的一个软件。所以现在给大家说的这个软件是一个开源的的软件，以下是我对安装这个软件的步骤：1.首先贴下载链接: https://pan.baidu.com/s/19yLU504ONczCypMBgw_YvA 密码: 5fyy 自己根据自己的电脑系统版本下载 下载完解压找到双击运行就ok，注意要安装安全证书（方法自己可以百度&amp;Google）安装完到这一步还没完，我都给大家打包好了，百度云链接: https://pan.baidu.com/s/1eop-OKcSOpTy5XEyEIEZow 密码: 7jx1 ，下载这个文件.最后我们可以在谷歌商店下载这个插件名字是(SwitchyOmega)布置步骤如下：使用方法：1.注意切换代理按照图示所示操作！2.启动下载客户端，下载方法直接贴图了如下：如果没有看图示红框所圈的则说明没有成功，自行查找原因。最后有什么问题可以百度&amp;Google了我用的是Chrome浏览器，国产的360，及火狐等等不知道有木有这个插件，还是那句老话可以百度……]]></content>
+      <categories>
+        <category>百度云下载不限速工具</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[高清]]></title>
     <url>%2F2018%2F05%2F11%2Fsimple%2F</url>
     <content type="text"><![CDATA[bizhi]]></content>
@@ -43,12 +51,12 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[百度云下载]]></title>
-    <url>%2F2018%2F05%2F11%2Fbaiduyun%2F</url>
-    <content type="text"><![CDATA[百度云盘下载工具 相信大家可能在启用百度云下载东西的时候可能被百度的速度所折磨，速度超慢，但是上有政策，下有对策。所以还是要感谢开源，这个软件是GitHub的开源软件，不需要登录，不用担心被百度封号的风险。之前的pandownload,由于不法商家的售卖，导致现在不能使用。也是很心寒，很好的一个软件。所以现在给大家说的这个软件是一个开源的的软件，以下是我对安装这个软件的步骤：1.首先贴下载链接: https://pan.baidu.com/s/19yLU504ONczCypMBgw_YvA 密码: 5fyy 自己根据自己的电脑系统版本下载 下载完解压找到双击运行就ok，注意要安装安全证书（方法自己可以百度&amp;Google）安装完到这一步还没完，我都给大家打包好了，百度云链接: https://pan.baidu.com/s/1eop-OKcSOpTy5XEyEIEZow 密码: 7jx1 ，下载这个文件.最后我们可以在谷歌商店下载这个插件名字是(SwitchyOmega)布置步骤如下：使用方法：1.注意切换代理按照图示所示操作！2.启动下载客户端，下载方法直接贴图了如下：如果没有看图示红框所圈的则说明没有成功，自行查找原因。最后有什么问题可以百度&amp;Google了我用的是Chrome浏览器，国产的360，及火狐等等不知道有木有这个插件，还是那句老话可以百度……]]></content>
-      <categories>
-        <category>百度云下载不限速工具</category>
-      </categories>
+    <title><![CDATA[摆脱win10更新烦恼]]></title>
+    <url>%2F2018%2F05%2F09%2Fupdate-win10%2F</url>
+    <content type="text"><![CDATA[以下是演示：总而言之win10更新让人很烦恼，但是更新以后可以保持电脑的安全性，更不更新都是因人而异了。]]></content>
+      <tags>
+        <tag>&lt;font color=&#39;#0000&#39;&gt;win10如何彻底关闭更新&lt;/font&gt;</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[资源]]></title>
@@ -59,12 +67,12 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[摆脱win10更新烦恼]]></title>
-    <url>%2F2018%2F05%2F09%2Fupdate-win10%2F</url>
-    <content type="text"><![CDATA[以下是演示：总而言之win10更新让人很烦恼，但是更新以后可以保持电脑的安全性，更不更新都是因人而异了。]]></content>
-      <tags>
-        <tag>&lt;font color=&#39;#0000&#39;&gt;win10如何彻底关闭更新&lt;/font&gt;</tag>
-      </tags>
+    <title><![CDATA[web简介]]></title>
+    <url>%2F2017%2F05%2F26%2Fbiaoqian%2F</url>
+    <content type="text"><![CDATA[前端简介如果要学习前端，首先要学会HTML，css,javascript,这三者缺一不可，当然现在也有很多的web框架，新手上手HTML，css很快的，html为文档标签页说白了也就是些静态的网页文字，而css则是修饰网页的颜色布局…实现相应的事件触发则就是javascript了毕竟连接服务器则需要它的的函数体实现。也是最难的一部分。相信网页开发这方面还是较为简单的，编程本来就是件枯燥的事情，需要坚持！最后还是希望自己能多敲代码。感悟编程的魅力，人人都是梦想家！ 注：就像上面的就是静态网页没有修饰！]]></content>
+      <categories>
+        <category>web前端</category>
+      </categories>
   </entry>
   <entry>
     <title><![CDATA[blog搭建]]></title>
@@ -72,14 +80,6 @@
     <content type="text"><![CDATA[1.首先搭建博客的时候菜单图标的问题如果一直显示“问号“解决方案如下：进入\username.github.io\themes\next目录：找到_config.yml修改如何下图所示：网上有很多说法，我也尝试了很多方法，最终问题出在“||” 一定要加上“||”后面的名字也要加上如下图所示为正确配置。 官网给的解释如下图，其他搜索结果也是 注：以上就是难找的问题，搭建个人博客的详细步骤有很多:https://www.jianshu.com/p/380290deb8f0 详细步骤需要的可以参考一下. ps:最后部署完以后，可以自己在阿里云购买域名也不贵 ，一般一年四元等等，服务器的话一般都是GitHub自带的GitHub page 有需求的可以自己购买服务器。]]></content>
       <categories>
         <category>hexo-next 博客搭建常见问题解决方案</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[web简介]]></title>
-    <url>%2F2017%2F05%2F26%2Fbiaoqian%2F</url>
-    <content type="text"><![CDATA[前端简介如果要学习前端，首先要学会HTML，css,javascript,这三者缺一不可，当然现在也有很多的web框架，新手上手HTML，css很快的，html为文档标签页说白了也就是些静态的网页文字，而css则是修饰网页的颜色布局…实现相应的事件触发则就是javascript了毕竟连接服务器则需要它的的函数体实现。也是最难的一部分。相信网页开发这方面还是较为简单的，编程本来就是件枯燥的事情，需要坚持！最后还是希望自己能多敲代码。感悟编程的魅力，人人都是梦想家！ 注：就像上面的就是静态网页没有修饰！]]></content>
-      <categories>
-        <category>web前端</category>
       </categories>
   </entry>
 </search>
